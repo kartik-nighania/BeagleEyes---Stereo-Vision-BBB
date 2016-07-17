@@ -3,6 +3,6 @@ using assembly code written in sub cores known as PRUs (programmable real time u
 for terestrial robots and aerial drones for terrain mapping and obstacle avoidance in unknown environment.
 
 
-Reasearch still under process.. :)
+Reasearch still under refinement.. :)
                                   - Kartik Nighania
     
